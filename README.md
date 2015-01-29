@@ -1,0 +1,3 @@
+# gittest
+Messing about with git repository
+Please ignore or face the peril of sorting through dumb changes...
