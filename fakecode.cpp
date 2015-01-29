@@ -9,6 +9,7 @@ something
 
 class myClass
 {
+	private int dec;
 	private int abc;
 	
 };
